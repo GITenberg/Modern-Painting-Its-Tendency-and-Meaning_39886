@@ -1,0 +1,31 @@
+_repo: Modern-Painting-Its-Tendency-and-Meaning_39886
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wright, Willard Huntington
+    birthdate: 1888
+    deathdate: 1939
+    gutenberg_agent_id: '9220'
+    url: http://www.gutenberg.org/2009/agents/9220
+description: ''
+gutenberg_issued: '2012-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Painters'
+- !lcsh 'Impressionism (Art)'
+tableOfContents: Ancient and modern art -- Precursors of the new era -- Édouard Manet
+  -- The early Impressionists -- Auguste Renoir -- Paul Cézanne -- The Neo-Impressionists
+  -- Gauguin and the Pont-Aven School -- Degas and his circle -- Henri-Matisse --
+  Picasso and Cubism -- Futurism -- Synchromism -- The lesser moderns -- Conclusion.
+title: Modern Painting, Its Tendency and Meaning
+url: http://www.gutenberg.org/ebooks/39886
